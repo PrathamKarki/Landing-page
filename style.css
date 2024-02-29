@@ -8,8 +8,9 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 30px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 260px;
+    margin-right: 260px;
+    margin-bottom: 80x;
     
 }
 
@@ -36,3 +37,35 @@ nav ul a {
     font-weight: 800;
     color: #E5E7EB;
 }
+
+.title {
+    font-size: 48px;
+    font-weight: 800;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+}
+
+.title-description {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+}
+
+.mid-left-header {
+    width: 400px;
+    padding: 30px;
+}
+
+.mid-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #3882f6;
+    border-radius: 20px;
+    padding: 8px 20px;
+    border: none;
+    color:#E5E7EB;
+}
+
