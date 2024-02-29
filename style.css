@@ -62,7 +62,7 @@ nav ul a {
     align-items: center;
 }
 
-button {
+.header-button {
     background-color: #3882f6;
     border-radius: 20px;
     padding: 8px 20px;
@@ -124,4 +124,28 @@ button {
     color:#1f2937;
     font-weight: bold;
     align-self: flex-end;
+}
+
+.section-four {
+    padding: 80px;
+}
+.last-container {
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 4px;
+    color: #E5E7EB;
+    padding: 25px;
+    justify-content: space-around;
+
+    
+}
+
+.last-button{
+    background-color: #3882f6;
+    border-radius: 20px;
+    padding: 8px 20px;
+    border: 2px solid white;
+    color:#E5E7EB;
+    
+
 }
