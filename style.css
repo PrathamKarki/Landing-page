@@ -75,7 +75,7 @@ button {
 
 .information {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     font-size: 36px;
     font-weight: 800;
 }
@@ -85,6 +85,7 @@ button {
     justify-content: center;
     align-items: center;
     gap: 50px;
+    margin-bottom: 60px;
 }
 
 .box1, .box2, .box3, .box4 {
@@ -95,7 +96,32 @@ button {
     margin-bottom: 5px;
 }
 
+.sectiontwo {
+    background-color: white;
+    margin: 60px;
+}
+
 .item {
     width: 150px;
 }
 
+.section-three {
+    background-color: #E5E7EB;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.quotes{
+    
+    font-style: italic;
+    font-size: 36px;
+    color: #1f2937;
+
+
+}
+
+.quote-text {
+    color:#1f2937;
+    font-weight: bold;
+    align-self: flex-end;
+}
