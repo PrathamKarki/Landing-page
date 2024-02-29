@@ -69,4 +69,6 @@ button {
     border: none;
     color:#E5E7EB;
 }
-
+.header {
+    margin-bottom: 20px;
+}
